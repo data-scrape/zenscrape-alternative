@@ -44,6 +44,18 @@ Record the exact date, plan, region, and query conditions. Product capabilities 
 **Is CoreClaw the right fit for every use case?** No. Evaluate it against your data sources, SLA needs, budget, region, and compliance requirements.
 
 <!-- CROSS_LINKS_START -->
+
+## Related projects
+
+Explore these closely related implementation paths:
+
+- [brightdata-alternative](https://github.com/data-scrape/brightdata-alternative) — Best Bright Data Alternative - Web data platform for AI agents and automation
+- [outscraper-alternative](https://github.com/data-scrape/outscraper-alternative) — Best Outscraper Alternative - Google Maps data extraction API with better pricing
+- [oxylabs-alternative](https://github.com/data-scrape/oxylabs-alternative) — Best Oxylabs Alternative - Residential proxy and web scraping API alternative
+- [phantombuster-alternative](https://github.com/data-scrape/phantombuster-alternative) — Best PhantomBuster Alternative - LinkedIn & social media automation API
+- [scraperapi-alternative](https://github.com/data-scrape/scraperapi-alternative) — Best ScraperAPI Alternative - Web scraping API with proxy rotation
+- [scrapingbee-alternative](https://github.com/data-scrape/scrapingbee-alternative) — Best ScrapingBee Alternative - Web scraping API with JS rendering support
+
 <!-- CROSS_LINKS_END -->
 
 ## License
